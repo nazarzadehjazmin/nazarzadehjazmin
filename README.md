@@ -15,7 +15,8 @@
 - 🌱 I’m currently upskilling Angular and .NET.
 - 👯 I’m looking to collaborate on **Open Source projects**.
 - 💬 I talk English, Spanish, Persian and a little Portuguese.
-
+<br>
+<br>
 
 ### 📫 You can reach me at: 
 
