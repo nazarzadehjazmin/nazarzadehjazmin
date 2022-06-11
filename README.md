@@ -10,16 +10,18 @@
 </div>
 
 
-### 📝 About
+### 📝 About me
 - 🔭 I'm a programming student at Universidad Tecnológica Nacional (UTN).
 - 🌱 I’m currently upskilling Angular and .NET.
 - 👯 I’m looking to collaborate on **Open Source projects**.
 - 💬 I talk English, Spanish, Persian and a little Portuguese.
 
+
 ### 📫 You can reach me at: 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazarzadehjazmin/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nazarzadehjazmin@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nazarzadehjazmin@gmail.com)](mailto:nazarzadehjazmin@gmail.com)
+
 
 ### ⚡ Skills
 
