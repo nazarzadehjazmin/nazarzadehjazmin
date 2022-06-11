@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/nazarzadehjazmin/nazarzadehjazmin/blob/main/readme-assets/banner.png" width="70%">
+   <img src="https://github.com/nazarzadehjazmin/nazarzadehjazmin/blob/main/readme-assets/banner.png" width="95%">
 </p>
 
 <div align="center">
